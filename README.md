@@ -13,6 +13,6 @@
 
 # 제목 목차
 
-* 독일 중서부 소규모 소프트웨어 회사의 개발자 근무 환경.(링크 - 가제)
+* [독일 중서부 소규모 소프트웨어 회사의 개발자 근무 환경](https://github.com/kleinstein/Clien_Developer_Report/blob/master/germany_nrw_developer_working_environment.md)
 * 개발자들의 툴 소개 (링크 - 가제)
 * ..
