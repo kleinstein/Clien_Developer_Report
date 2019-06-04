@@ -31,7 +31,17 @@ Visual Studio, Eclipse, Android Studio, ... 등등 사실상 개발목표를 위
 
 * 홈페이지: http://www.dependencywalker.com/
 
+### Visual Assist X
+Microsoft Visual Studio 를 사용한다면 꼭 살펴봐야할 유료 툴.
+대표적 기능들 외에도 정말 수많은 자잘한 기능들을 제공합니다. 
+
+* 대표적 기능 소개: https://www.wholetomato.com/learn/top10
+* 홈페이지: https://www.wholetomato.com/
+
+### Visual Studio Code (Linux, Mac 용도 제공됩니다.)
+단순한 텍스트 편집기를 훨씬 넘어버린 에디터.
+
+* 홈페이지: https://code.visualstudio.com/
 
 
 
-## Linux
