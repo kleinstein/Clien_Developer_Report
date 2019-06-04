@@ -56,3 +56,15 @@ Microsoft Visual Studio 를 사용한다면 꼭 살펴봐야할 유료 툴.
 
 * 홈페이지: https://www.sourcetreeapp.com/
 
+
+### ShareX (스크린샷)
+수많은 스크린샷 프로그램이 있지만, 오픈소스에 이정도 기능이면 못할것이 없는 스크린샷 프로그램입니다.
+
+* 홈페이지: https://github.com/ShareX/ShareX
+
+### AutoHotKey 
+이 만능 스크립트 툴을 응용하면 개발할때 아쉬운 여러가지 문제를 창의적?으로 해결가능합니다.
+
+* 홈페이지: https://www.autohotkey.com/
+
+
