@@ -44,4 +44,11 @@ Microsoft Visual Studio 를 사용한다면 꼭 살펴봐야할 유료 툴.
 * 홈페이지: https://code.visualstudio.com/
 
 
+### ArsClip
+무료 클립보드 매니저. 단순히 클립보드에 저장되는 것들의 리스트만 관리되는 것이 아니고, 
+예를 들면 복사한 텍스트의 특정 기호를 다른 기호로 바꿔치기 한다던지(예 => C:\some\directory\Test.txt -> C:/some/directory/Test.txt), 
+자주쓰는 문장등을 기억시켰다가 숏컷으로 붙여넣기 하는 등의 수많은 추가 기능들을 직접 만들수 있는 매력적인 클립보드 매니저입니다.
+
+* 홈페이지: http://www.joejoesoft.com/vcms/97/
+
 
