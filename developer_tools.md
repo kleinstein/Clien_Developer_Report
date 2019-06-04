@@ -67,4 +67,9 @@ Microsoft Visual Studio 를 사용한다면 꼭 살펴봐야할 유료 툴.
 
 * 홈페이지: https://www.autohotkey.com/
 
+### GoldenDict (사전)
+브라우저에서 수많은 해외 자료들을 살피고 Stackoverflow 를 검색할때, 또 pdf 부터 ppt 파일들, doc 파일들, 심지어 파일이름에 나오는 단어들까지 그야말로 어디서건 원하는 단어를 선택한 다음 숏컷 하나만 누르면 곧바로 사전을 띄워주는 오픈소스 만능 사전입니다. 맥, 리눅스도 지원합니다. 사전파일은 직접 구하면 가장 좋지만 여의치 않으면 네이버 사전 사이트를 연결시켜두면 네이버 사전으로도 검색해줍니다.(예 => 네이버 사전을 위한 GoldenDict 용 사이트 주소: http://dict.naver.com/search.nhn?sLn=kr&query=%GDWORD%&searchOption=all&preQuery=&forceRedirect=N )
+
+* 홈페이지: https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows
+
 
