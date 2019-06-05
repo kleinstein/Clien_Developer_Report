@@ -15,4 +15,4 @@
 
 * [독일 중서부 소규모 소프트웨어 회사의 개발자 근무 환경](https://github.com/kleinstein/Clien_Developer_Report/blob/master/germany_nrw_developer_working_environment.md)
 * [개발자들의 툴 소개](https://github.com/kleinstein/Clien_Developer_Report/blob/master/developer_tools.md)
-* ..
+* [디버깅 팁 모음](https://github.com/kleinstein/Clien_Developer_Report/blob/master/debugging_tips.md)
